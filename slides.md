@@ -18,7 +18,7 @@ And their brilliant senior developer parents!
 
 ---
 
-## Who Am I?
+# Who Am I?
 
 <br></br>
 
@@ -48,7 +48,7 @@ And their brilliant senior developer parents!
 
 ---
 
-## From Childhood Bricks to Digital Giants: Meet the Monolith
+# From Childhood Bricks to Digital Giants: Meet the Monolith
 
 <div class="w-full h-full flex justify-center items-center p-4">
   <img src="/visuals/3.png" class="w-auto h-auto" style="max-height: 60vh;"/>
@@ -56,7 +56,7 @@ And their brilliant senior developer parents!
 
 ---
 
-## The Lightbulb Moment: Building Web Apps, Just Like LEGOs!
+# The Lightbulb Moment: Building Web Apps, Just Like LEGOs!
 
 <div class="w-full h-full flex justify-center items-center p-4">
   <img src="/visuals/4.png" class="w-auto h-auto" style="max-height: 60vh;"/>
@@ -64,7 +64,7 @@ And their brilliant senior developer parents!
 
 ---
 
-## What are microfrontends? Let's build a LEGO City
+# What are microfrontends? Let's build a LEGO City
 
 <div class="flex p-5 gap-5">
 <v-click>
@@ -92,7 +92,7 @@ And their brilliant senior developer parents!
 
 ---
 
-## Deconstructing the Giant: Independent LEGO Sets
+# Deconstructing the Giant: Independent LEGO Sets
 
 <div class="flex p-5 gap-5">
 <v-click>
@@ -117,4 +117,63 @@ And their brilliant senior developer parents!
 </v-click>
 </div>
 </div>
+
+---
+layout: intro
+---
+
+# Awsome things about microfrontends
+
+---
+layout: image-left
+image: ./visuals/11.png
+backgroundSize: contain
+---
+# Team Superpowers!
+
+<br></br>
+
+- Grown-ups like to call it *Team Automony*.
+- Each team has its own box of LEGOS.
+- Teams can build whatever they want, however they want.
+
+---
+
+<small>One team loves red bricks and wants to build a Fire Station?</small>
+
+<div class = "flex gap-5">
+<img src="/visuals/24.png" width="400"/>
+
+<v-click>
+<img src="/visuals/26.png" width="400"/>
+</v-click>
+</div>
+
+---
+layout: image
+image: ./visuals/25.png
+backgroundSize: contain
+--- 
+
+# 
+
+---
+
+<small>Another team loves blue bricks and wants to build a Police Station?</small>
+<div class = "flex gap-5">
+<img src="/visuals/27.png" width="400"/>
+
+<v-click>
+<img src="/visuals/28.png" width="400"/>
+</v-click>
+</div>
+
+---
+layout: image
+image: ./visuals/29.png
+backgroundSize: contain
+--- 
+
+# 
+
 ---
