@@ -89,3 +89,32 @@ And their brilliant senior developer parents!
 </v-click>
 </div>
 </div>
+
+---
+
+## Deconstructing the Giant: Independent LEGO Sets
+
+<div class="flex p-5 gap-5">
+<v-click>
+<div class="flex justify-left items-center">
+  <img src="/visuals/9.png" class="w-auto h-auto" style="max-height: 60vh;"/>
+</div>
+</v-click>
+<div class = "flex flex-col gap-5">
+
+<v-clicks>
+
+- Built by different friends.
+- In the grown-up world, different Teams.
+- Developed, deployed and managed independently.
+
+</v-clicks>
+<v-click>
+<div class="flex justify-left items-center">
+  <img src="/visuals/happy.gif" width="350"/>
+</div>
+
+</v-click>
+</div>
+</div>
+---
