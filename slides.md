@@ -1,15 +1,11 @@
 ---
 theme: seriph
 layout: image-left
-image: ./visuals/2.png
+image: /visuals/2.png
 date: May 2025
 backgroundSize: contain
 title: Microfrontends for 5-year-olds
 transition: slide-left
-css: |
-  h1, h2, h3 {
-    color: #2B90B6;
-  }
 ---
 
 # Microfrontends for 5-year-olds
@@ -29,13 +25,13 @@ And their brilliant senior developer parents!
 <div class="flex justify-between gap-4">
 
 <v-click> 
-  <img src="./visuals/ingilaEjaz.jpg" width="200" style="border-radius: 5%;" />
+  <img src="/visuals/ingilaEjaz.jpg" width="200" style="border-radius: 5%;" />
 </v-click>
 <v-click> 
-  <img src="./visuals/keyboardSmash.png" width="200" style="border-radius: 5%;" />
+  <img src="/visuals/keyboardSmash.png" width="200" style="border-radius: 5%;" />
 </v-click>
 <v-click> 
-  <img src="./visuals/ingilaWithKids.JPG" width="250" style="border-radius: 5%;" />
+  <img src="/visuals/ingilaWithKids.JPG" width="250" style="border-radius: 5%;" />
 </v-click>
 
 </div>
@@ -55,7 +51,7 @@ And their brilliant senior developer parents!
 ## From Childhood Bricks to Digital Giants: Meet the Monolith
 
 <div class="w-full h-full flex justify-center items-center p-4">
-  <img src="./visuals/3.png" class="w-auto h-auto" style="max-height: 60vh;"/>
+  <img src="/visuals/3.png" class="w-auto h-auto" style="max-height: 60vh;"/>
 </div>
 
 ---
@@ -63,7 +59,7 @@ And their brilliant senior developer parents!
 ## The Lightbulb Moment: Building Web Apps, Just Like LEGOs!
 
 <div class="w-full h-full flex justify-center items-center p-4">
-  <img src="./visuals/4.png" class="w-auto h-auto" style="max-height: 60vh;"/>
+  <img src="/visuals/4.png" class="w-auto h-auto" style="max-height: 60vh;"/>
 </div>
 
 ---
