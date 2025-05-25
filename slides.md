@@ -250,7 +250,7 @@ layout: center
 
 ---
 layout: fact
-transition: slide-down
+transition: slide-up
 ---
 
 # How to Implement Microfrontends?
@@ -277,7 +277,7 @@ backgroundSize: contain
 
 ---
 layout: fact
-transition: slide-down
+transition: slide-up
 ---
 
 # Conclusion
@@ -320,3 +320,114 @@ transition: slide-up
 </v-clicks>
 
 ---
+layout: image-left
+image: ./visuals/18.png
+backgroundSize: contain
+transition: slide-up
+---
+
+# Colors don't match!
+
+- Your Red maybe different from your friend's red.
+- It is tricky to make all the colors look the same.
+- Grown-ups call it *Maintaining Design System Consistency and a Unified User Experience*.
+
+
+---
+layout: image-left
+image: ./visuals/17.png
+backgroundSize: contain
+transition: slide-up
+---
+
+# Pictures Don't Fit!
+
+- Your drawing of a house maybe too big for your friend's drawing of a tree.
+- It can be tricky to fit everything into one big scene!
+- Grown-ups call it *Integration Challenges and Orchestration Complexity*.
+
+---
+layout: image-left
+image: ./visuals/19.png
+backgroundSize: contain
+transition: slide-up
+---
+
+# Longer Build Times!
+
+- Drawing one single picture is faster.
+- Pulling many small pieces and joining them together takes a long time.
+- Grown-ups call it *Integration Challenges and Orchestration Complexity*.
+
+---
+layout: image-left
+image: ./visuals/32.png
+backgroundSize: contain
+transition: slide-up
+---
+
+# Remembering where Everything Is!
+
+- Every microfrontend lives in its  own home.
+- Grown-ups call it *"Repository"*, *"Server"*, or the likes.
+- It's difficult to remember where each microfrontend lives and pull it to make one big picture.
+- In the grown-up world, it's called *Distributed System Overhead and Discovery/Routing Complexities*.
+
+---
+layout: fact
+transition: slide-left
+---
+
+# The Big Question!
+
+---
+layout: image
+image: ./visuals/20.png
+backgroundSize: 50% 50%
+---
+
+# To Microfrontend or Not to Microfrontend?
+
+---
+layout: center
+transition: slide-left
+---
+
+<v-clicks>
+
+- It depends on your needs, team size, and desired innovation speed.
+- Microfrontends are awsome for large and complex applications requiring faster delivery.
+- Companies like IKEA, Spotify and Upwork use microfrontends are real-world examples of microfrontends implementation.
+</v-clicks>
+
+---
+layout: fact
+transition: slide-left
+---
+
+# Conclusion
+
+---
+layout: center
+---
+
+<v-clicks>
+
+- Microfrontends help breaking down large, monolithic web applications into smaller, independent parts.
+- Teams own their own "areas", allowing faster builds.
+- Applications are scalable, more resillient and robust.
+- Module Federation is a great way to implement microfrontends.
+- Microfrontends come with some challenges too:
+
+    - Slower build times
+    - Inconsistent UI
+    - Distributed System overhead. 
+
+</v-clicks>
+---
+layout: image
+image: ./visuals/23.png
+backgroundSize: contain
+---
+
+# 
