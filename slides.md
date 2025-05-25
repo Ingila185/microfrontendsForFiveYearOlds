@@ -29,7 +29,7 @@ And their brilliant senior developer parents!
 <div class="flex justify-between gap-4">
 
 <v-click> 
-  <img src="./visuals/ingilaEjaz.JPG" width="200" style="border-radius: 5%;" />
+  <img src="./visuals/ingilaEjaz.jpg" width="200" style="border-radius: 5%;" />
 </v-click>
 <v-click> 
   <img src="./visuals/keyboardSmash.png" width="200" style="border-radius: 5%;" />
