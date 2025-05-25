@@ -185,7 +185,7 @@ layout: fact
 
 ---
 layout: image-left
-image: ./visuals/8.png
+image: ./visuals/81.png
 backgroundSize: contain
 --- 
 
