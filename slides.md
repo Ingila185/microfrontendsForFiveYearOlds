@@ -64,4 +64,28 @@ And their brilliant senior developer parents!
 
 ---
 
-## What are microfrontends?
+## What are microfrontends? Let's build a LEGO City
+
+<div class="flex p-5 gap-5">
+<v-click>
+<div class="flex justify-left items-center">
+  <img src="/visuals/22.png" class="w-auto h-auto" style="max-height: 60vh;"/>
+</div>
+</v-click>
+
+<div class = "flex flex-col gap-5">
+<v-clicks>
+
+- Imagine building this entire lego city in one go.
+- In grown-up world, it's called a Monolith.
+- One large piece of code for everything!
+
+</v-clicks>
+<v-click>
+<div class="flex justify-left items-center">
+
+<img src="/visuals/sad.gif" width="500" />
+</div>
+</v-click>
+</div>
+</div>
