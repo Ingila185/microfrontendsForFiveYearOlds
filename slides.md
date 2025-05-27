@@ -357,7 +357,7 @@ transition: slide-up
 
 - Drawing one single picture is faster.
 - Pulling many small pieces and joining them together takes a long time.
-- Grown-ups call it *Integration Challenges and Orchestration Complexity*.
+- Grown-ups call it *Build and Deployment Pipeline Efficiency" (or "Deployment Time and Efficiency)*.
 
 ---
 layout: image-left
