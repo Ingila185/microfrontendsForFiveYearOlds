@@ -76,9 +76,10 @@ And their brilliant senior developer parents!
 <div class = "flex flex-col gap-5">
 <v-clicks>
 
-- Imagine building this entire lego city in one go.
-- In grown-up world, it's called a Monolith.
-- One large piece of code for everything!
+- Slow development cycles.
+- Team bottlenecks.
+- Technology lock-in.
+- Scaling challenges.
 
 </v-clicks>
 <v-click>
