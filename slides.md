@@ -30,9 +30,7 @@ And their brilliant senior developer parents!
 <v-click> 
   <img src="/visuals/keyboardSmash.png" width="200" style="border-radius: 5%;" />
 </v-click>
-<v-click> 
-  <img src="/visuals/ingilaWithKids.JPG" width="300" style="border-radius: 5%;" />
-</v-click>
+
 
 </div>
 
